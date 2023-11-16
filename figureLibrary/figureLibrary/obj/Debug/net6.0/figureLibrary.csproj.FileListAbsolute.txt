@@ -1,0 +1,12 @@
+E:\figureLibrary\figureLibrary\bin\Debug\net6.0\figureLibrary.deps.json
+E:\figureLibrary\figureLibrary\bin\Debug\net6.0\figureLibrary.dll
+E:\figureLibrary\figureLibrary\bin\Debug\net6.0\figureLibrary.pdb
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.csproj.AssemblyReference.cache
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.AssemblyInfoInputs.cache
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.AssemblyInfo.cs
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.csproj.CoreCompileInputs.cache
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.dll
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\refint\figureLibrary.dll
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\figureLibrary.pdb
+E:\figureLibrary\figureLibrary\obj\Debug\net6.0\ref\figureLibrary.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "i1o9v2kElo8Pey1T8JJReKAYMe/lBAZJ2WOj4EcQ+6PqooxZ1noWvmTaTQhhksH54xNQS99W3HjU9rHu59SDew==",
+  "success": true,
+  "projectFilePath": "E:\\figureLibrary\\figureLibrary\\figureLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yrago\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Yrago\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Yrago\\.nuget\\packages\\nunit\\3.14.0\\nunit.3.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
